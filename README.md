@@ -1,1 +1,2 @@
 # AI-Sudoku-Solver
+This was a sudoku solver that used 4 seperate algorithms to solve sudoku boards. Those algorithms were, backtracking, backtracking with forward checking, backtracking with arc consistency and forward checking, and simulated annealing. I worked together with my partner @4den42 to complete this project. I personally worked on the backtracking algorithm and the simulated annealing algorithm. 
